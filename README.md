@@ -1,3 +1,25 @@
+# FaceDEX
+## Facial Landmark Detector
+FaceDEX, a Facial Recognition React Native app, which uses Tensorflow's Facial Landmark Detection API .
+
+#Tensorflow's Facial Lanmark Detector Api
+## Link-
+https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
