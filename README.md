@@ -1,22 +1,20 @@
-# FaceDEX
-## Facial Landmark Detector
+# FaceDEX, A Facial Landmark Detector
+## Description
 FaceDEX, a Facial Recognition React Native app, which uses Tensorflow's Facial Landmark Detection API .
 Facial Landmark Technique uses Machine Learning, Deep Learning & AI, It uses the same technology that Snapchat uses in its filters.
 This app can detect 486 3D Facial landmark which allows us to create a detailed mesh of a face.
-
-
-# Working
 It uses React Webcam to access user's computer webcam to perform Facial Landmark Detection by using Tensorflow's Api.
 
 
-# Working Example
+## Working Samples
 1.![JOEY1](https://user-images.githubusercontent.com/111369577/192660618-25826c00-0849-4540-af39-0a91885bf2a2.PNG)
-2.![3AI](https://user-images.githubusercontent.com/111369577/192660683-6f10fcf2-91fa-4b9d-82f5-763702efaa85.PNG)
-3.![2AI](https://user-images.githubusercontent.com/111369577/192660725-8bed99b0-0c1b-4860-89d0-f0614052f3f8.PNG)
+2.![image](https://user-images.githubusercontent.com/111369577/192767221-81236b81-f615-4a0a-bf8e-4d57d8cf0ad8.png)
+3.![3AI](https://user-images.githubusercontent.com/111369577/192660683-6f10fcf2-91fa-4b9d-82f5-763702efaa85.PNG)
+4.![2AI](https://user-images.githubusercontent.com/111369577/192660725-8bed99b0-0c1b-4860-89d0-f0614052f3f8.PNG)
 
 
-# Tensorflow's Facial Landmark Detector Api
-## Link-
+## Tensorflow's Facial Landmark Detector Api
+### Link-
 https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection
 
 # To install this API
